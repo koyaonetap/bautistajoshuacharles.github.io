@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="C:\Users\bauf4\OneDrive\Desktop\portfolio\assets\style.css">
+    <link rel="stylesheet" href="assets\style.css">
     <title>My Portfolio</title>
 </head>
 <body>
@@ -36,7 +36,7 @@
                 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-6">
                   <div class="col">
                     <div class="card shadow-sm">
-                      <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\15.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                      <img src="pictures\15.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                       <div class="card-body">
                         <p class="card-text">Hi my name is Joshua Charles L Bautista </p>
                       </div>
@@ -44,7 +44,7 @@
                   </div>
                   <div class="col">
                     <div class="card shadow-sm">
-                        <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\14.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                        <img src="pictures\14.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                         <div class="card-body">
                           <p class="card-text">This picture show that im a good programmer on cmd</p>
                         </div>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="col">
                         <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\12.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\12.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">I always on time specialy on every deadline</p>
                             </div>
@@ -60,7 +60,7 @@
                         </div>
                         <div class="col">
                             <div class="card shadow-sm">
-                                <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\13.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                                <img src="pictures\13.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                                 <div class="card-body">
                                   <p class="card-text">Im always doing my best to do the works specialy when its programming</p>
                                 </div>
@@ -68,7 +68,7 @@
                             </div>
                             <div class="col">
                                 <div class="card shadow-sm">
-                                    <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\14.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                                    <img src="pictures\14.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                                     <div class="card-body">
                                       <p class="card-text">My specialty is Web Developments</p>
                                     </div>
@@ -94,21 +94,21 @@
                       <div class="carousel-item active">
                         <div class="card-group">
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\1.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\1.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">This is the front page of the game </p>
                               <br>
                             </div>
                           </div>
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\2.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\2.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">And this is the start botton you can select what game do you want to play.</p>
                               <br>
                             </div>
                           </div>
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\3.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\3.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">This is the matching color game you will click on one random circle and match it to the other circle until you match it on its color</p>
                               <br>
@@ -119,21 +119,21 @@
                       <div class="carousel-item">
                         <div class="card-group">
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\4.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\4.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">This is a reaction game if you click it on the fastest time when it turn green you will see the ms if how is your speed</p>
                             <br>
                             </div>
                           </div>
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\5.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\5.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">Anagram game its a random letter word that you will fix the correct spelling to earn points</p>
                               <br>
                             </div>
                           </div>
                           <div class="card shadow-sm">
-                            <img src="C:\Users\bauf4\OneDrive\Desktop\portfolio\pictures\6.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
+                            <img src="pictures\6.jpg" class="bd-placeholder-img card-img-top" width="100%" height="auto" />
                             <div class="card-body">
                               <p class="card-text">This is a number game that you will remember the last number that flashes to you</p>
                               <br>
@@ -194,6 +194,6 @@
         </div>
     </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="C:\Users\bauf4\OneDrive\Desktop\portfolio\assets\script.js"></script>
+    <script src="assets\script.js"></script>
 </body>
 </html>
