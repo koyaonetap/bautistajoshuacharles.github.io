@@ -1,0 +1,79 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+.back-video{
+    position:absolute;
+    right:0;
+    bottom:0;
+    z-index: -1;
+}
+
+
+/* Navigation Styles */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Section Styles */
+.section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.section h2 {
+    margin-bottom: 20px;
+}
+.back-video2{
+    position:absolute;
+    right:0;
+    bottom:0;
+    z-index: -1;
+}
+/* Project Card Styles */
+.project-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+
+.project-card h3 {
+    margin-top: 10px;
+}
+
+/* Contact Form Styles */
+.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+
+.contact-form button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
