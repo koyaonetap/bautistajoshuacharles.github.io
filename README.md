@@ -73,11 +73,10 @@
                                       <p class="card-text">My specialty is Web Developments</p>
                                     </div>
                                   </div>
-                                </div>
-                
+                                </div>              
     </section>
-    
-    <section id="projects" class="py-5 bg-light">
+
+ <section id="projects" class="py-5 bg-light">
         <div class="container">
             <div id="projects">
                 <br><br>
@@ -89,8 +88,7 @@
                       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
                     </div>
-            
-                    <div class="carousel-inner">
+            <div class="carousel-inner">
                       <div class="carousel-item active">
                         <div class="card-group">
                           <div class="card shadow-sm">
@@ -154,36 +152,28 @@
                 </div>
                 <br><br>
               </div>
-        
     </section>
-    
     <section id="contact" class="py-5">
         <div class="container">
             <h1 class="fw-light text-center">Contact Me</h1>
-            <br>
-  
-            <!-- Bootstrap 5 starter form -->
+            <br> 
             <form id="contactForm" style="max-width: 500px; margin: auto;">
-    
-              <!-- Name input -->
+     <!-- Name input -->
               <div class="mb-3">
                 <label class="form-label" for="name">Name</label>
                 <input class="form-control" id="name" type="text" placeholder="Name" />
               </div>
-    
-              <!-- Email address input -->
+     <!-- Email address input -->
               <div class="mb-3">
                 <label class="form-label" for="emailAddress">Email Address</label>
                 <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" />
               </div>
-    
-              <!-- Message input -->
+     <!-- Message input -->
               <div class="mb-3">
                 <label class="form-label" for="message">Message</label>
                 <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;"></textarea>
               </div>
-    
-              <!-- Form submit button -->
+    <!-- Form submit button -->
               <div class="d-grid">
                 <button class="btn btn-primary btn-lg form-btn" type="submit">Submit</button>
               </div>
