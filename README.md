@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -158,22 +157,18 @@
             <h1 class="fw-light text-center">Contact Me</h1>
             <br> 
             <form id="contactForm" style="max-width: 500px; margin: auto;">
-     <!-- Name input -->
               <div class="mb-3">
                 <label class="form-label" for="name">Name</label>
                 <input class="form-control" id="name" type="text" placeholder="Name" />
               </div>
-     <!-- Email address input -->
               <div class="mb-3">
                 <label class="form-label" for="emailAddress">Email Address</label>
                 <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" />
               </div>
-     <!-- Message input -->
               <div class="mb-3">
                 <label class="form-label" for="message">Message</label>
                 <textarea class="form-control" id="message" type="text" placeholder="Message" style="height: 10rem;"></textarea>
               </div>
-    <!-- Form submit button -->
               <div class="d-grid">
                 <button class="btn btn-primary btn-lg form-btn" type="submit">Submit</button>
               </div>
@@ -187,3 +182,4 @@
     <script src="assets\script.js"></script>
 </body>
 </html>
+        
