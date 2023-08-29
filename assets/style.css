@@ -1,3 +1,4 @@
+/* Reset some default styles */
 * {
     margin: 0;
     padding: 0;
@@ -16,6 +17,8 @@ body {
     z-index: -1;
 }
 
+
+/* Navigation Styles */
 .navbar {
     background-color: #333;
 }
@@ -24,6 +27,7 @@ body {
     color: #fff;
 }
 
+/* Section Styles */
 .section {
     padding: 60px 0;
     text-align: center;
@@ -38,6 +42,7 @@ body {
     bottom:0;
     z-index: -1;
 }
+/* Project Card Styles */
 .project-card {
     border: 1px solid #ddd;
     padding: 20px;
@@ -50,6 +55,7 @@ body {
     margin-top: 10px;
 }
 
+/* Contact Form Styles */
 .contact-form {
     max-width: 400px;
     margin: 0 auto;
